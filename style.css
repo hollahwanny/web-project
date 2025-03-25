@@ -1,0 +1,49 @@
+/* General styles */
+ body{
+    font-family: Arial,sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0 px;
+    background-color: #f8f9fa;
+    color: #333;
+ }
+
+ /* Header Styles */
+ header{
+    text-align: center;
+    padding: 20px;
+    background-color: #fce38a;
+    color: #333;
+ }
+
+ h1{
+    color: #f38181;
+ }
+  
+ /*Table Styles */
+ table{
+    width: 80%;
+    margin: 20px; 
+    border-collapse: collapse;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+th {
+    background-color: #f38181;
+    color: #fff;
+}
+
+/*Contact Section Links*/
+a{
+    color: #00aaff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
